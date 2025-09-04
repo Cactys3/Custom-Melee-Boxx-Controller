@@ -53,3 +53,13 @@ High Quality Keyswitches, Ultra-Short Travel Time (generic)​:​​ https://ww
 Many Grits of Sandpaper (generic): https://www.amazon.com/dp/B07KV3VX97?ref=ppx_yo2ov_dt_b_fed_asin_title​
 
 Optional Kailh Low Profile Hot-Swap Switch Sockets: Can be found on amazon, but much more affordable on other resellers like aliexpress
+
+More Images:
+![Image!](/Purple_Multi_Colored.jpg?raw=true "Title")
+![Image!](/Inside_My_Build.jpg?raw=true "Title")
+![Image!](/My_Build_Back_Panel.jpg?raw=true "Title")
+![Image!](/My_Build_Images%20%283%29.jpg?raw=true "Title")
+![Image!](/Pink_Multi_Colored.jpg?raw=true "Title")
+![Image!](/New_Build_Closeup.jpg?raw=true "Title")
+![Image!](/New_Build_Far.jpg?raw=true "Title")
+
