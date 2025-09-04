@@ -17,7 +17,9 @@ Below are the various things that went into the project, along with information 
 ​USB-C Breakout Board Note:​ I originally went with a smaller breakout board but had to switch to this extended usb-c breakout board as boxx controllers need the extra pins, along with a schkotty diode, to interact with USB in a way that allows them to function on all devices, like certain modded wii's or devices that provide certain amounts of power that would be unsupported otherwise. ​​​On my non-boxx controller design, I use a different USB-C breakout board as I don't need all the pins or diode since only a Boxx style controller would normally be used on unsupported devices (like wii, wii adapter with broken rumble line, etc).
 
 ​My Build:
-
+![Image!](/My_Build_Images%20(4).jpg?raw=true "Title")
+![Image!](/My_Build_Images%20(3).jpg?raw=true "Title")
+![Image!](/My_Build_Images%20(2).jpg?raw=true "Title")
 ​​![Image!](/My_Build_Images%20(1).jpg?raw=true "Title")
 
 ​Wiring Diagram:
