@@ -28,9 +28,6 @@ USB-C Breakout Board + Diode:​​​​​​​​​​
 ​​​​​​​USB-C Breakout Board + Diode Diagram​
 ![Image!](/Diagram.png?raw=true "Title")
 
-​Oled Screen:
-​​​Oled Screen Diagram​
-
 ​Amazon Items Parts List (a lot of this stuff may be found at a local store more affordably, but some of the parts are specific to this design):
 
 Soldering Iron (generic): https://www.amazon.com/dp/B0D92VNWVS?th=1
