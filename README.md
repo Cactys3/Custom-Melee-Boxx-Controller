@@ -18,8 +18,8 @@ Below are the various things that went into the project, along with information 
 
 ​My Build:
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/Cactys3/Custom-Melee-Boxx-Controller/blob/main/My_Build_Images%20(1).jpg)?raw=true)
-​​
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg]https://github.com/Cactys3/Custom-Melee-Boxx-Controller/blob/main/My_Build_Images%20(1).jpg?raw=true)
+​​![Alt text](relative%20path/to/img.jpg?raw=true "Title")
 
 ​Wiring Diagram:
 USB-C Breakout Board + Diode:​​​​​​​​​​
