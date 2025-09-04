@@ -24,7 +24,9 @@ Below are the various things that went into the project, along with information 
 
 ​Wiring Diagram:
 USB-C Breakout Board + Diode:​​​​​​​​​​
+![Image!](/My_Build_Images%20(1).jpg?raw=true "Title")
 ​​​​​​​USB-C Breakout Board + Diode Diagram​
+![Image!](/My_Build_Images%20(1).jpg?raw=true "Title")
 
 ​Oled Screen:
 ​​​Oled Screen Diagram​
